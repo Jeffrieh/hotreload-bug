@@ -4,7 +4,7 @@
 
 <script setup lang="ts">
 onMounted(() => {
-  console.log("mounted");
+  console.log("mounted twice");
 });
 </script>
 

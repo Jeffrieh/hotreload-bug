@@ -1,7 +1,7 @@
-<template>
-  <div>
-    <NuxtPage />
-  </div>
-</template>
+<script setup lang="ts">
+const router = useRouter();
+</script>
 
-<script setup lang="ts"></script>
+<template>
+  <NuxtPage />
+</template>
